@@ -1,0 +1,11 @@
+cypress/videos/Regressivo.feature.mp4
+cypress/screenshots/**.png
+
+cypress/screenshots/Regressivo.feature/Regressivo DPK -- Acessar pagina de Garantias (failed).png
+cypress/screenshots/Regressivo.feature/Regressivo DPK -- Adicionar item ao carrinho (failed).png
+cypress/screenshots/Regressivo.feature/Regressivo DPK -- Buscar Garantia (failed).png
+cypress/screenshots/Regressivo.feature/Regressivo DPK -- Checkout boleto a prazo (failed).png
+cypress/screenshots/Regressivo.feature/Regressivo DPK -- Checkout boleto a vista (failed).png
+cypress/screenshots/Regressivo.feature/Regressivo DPK -- Checkout Pix (failed).png
+cypress/screenshots/Regressivo.feature/Regressivo DPK -- Limpar carrinho (failed).png
+node_modules
